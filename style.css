@@ -1,0 +1,19 @@
+html{
+    font-size:150%;
+}
+body{
+    background-color:brown;
+}
+.headline{
+    display: flex;
+    justify-content: center;
+    margin-bottom:20px;
+}
+.entry{
+    display: flex;
+    justify-content: center;
+}
+.hours{
+    display: flex;
+    justify-content: center;
+}
